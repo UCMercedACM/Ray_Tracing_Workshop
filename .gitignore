@@ -1,0 +1,8 @@
+*.vcxproj
+*.filters
+*.user
+*.tlog
+*.sln
+x64
+x86
+cmake_build
