@@ -2,7 +2,7 @@
  Intro to Ray Tracing Workshop for ACM club at UC Merced
 
 # Setting Up the Project
-
+<p> Follow these steps to set up the project before the workshop </p>
 
 # Install Visual Studio
 <p> If you do not already have Visual Studio installed, follow these directions: </p>
@@ -15,3 +15,5 @@
 # Building the Project
 
 # Running the Project
+<p> Once you run the project, you should see this: </p>
+![image](https://drive.google.com/uc?export=view&id=1FQrkTMzAjb8hBALEdFNI24da0AI-36z_)
