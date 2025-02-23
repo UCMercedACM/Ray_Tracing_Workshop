@@ -33,7 +33,24 @@
 # Building the Project
 <p> Open the CMake GUI. This should be in your desktop shortcuts, or check where you downloaded it and run bin/cmake-gui.exe </p>
 <p> Once it opens, select "Browse Source" and navigate to the folder of the project you downloaded from GitHub </p>
-<p> Select "Browse Build" and navigate to the same folder. Add "/cmake_build" at the end to put the built project in that folder </p>
+<p> Select "Browse Build" and navigate to the same folder. Add "/cmake_build" at the end to put the built project in that folder. It will ask if you want to create a new foldercalled cmake_build, select yes </p>
+
+![image](https://drive.google.com/uc?export=view&id=150RgTDN36iMxMrXClhtIy3AaDDHGU_91)
+
+<p> Once you are done, hit "Configure" </p>
+<p> Make sure the correct version of Visual Studio is selected (In this case Visual Studio 17 2022), and make sure "Use Default Native Compilers" is selected </p>
+
+![image](https://drive.google.com/uc?export=view&id=1I6TgDNOC6UiQERuNNg5hMzJfCfnPOAN2)
+
+<p> Click "Finish", then wait for configuration to complete. It should look like this: </p>
+
+![image](https://drive.google.com/uc?export=view&id=1xAcjELaBymHErpjxA2fMgvwcVRP3K3Fc)
+
+<p> Then click "Generate", and wait for the project generation to complete </p>
+
+![image](https://drive.google.com/uc?export=view&id=1IsrtiTehEHWYZHnyzkZQlW5IYMGyBTxA)
+
+<p> Now, head over to the file location of the project and there should be a folder called cmake_build with a file "Ray_Tracing_Workshop.sln". Go ahead and open it with Visual Studio </p>
 
 # Running the Project
 <p> Once you run the project, you should see this: </p>
