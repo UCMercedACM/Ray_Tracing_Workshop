@@ -2,7 +2,7 @@
  Intro to Ray Tracing Workshop for ACM club at UC Merced
 
 # Setting Up the Project
-<p> Follow these steps to set up the project before the workshop </p>
+<p> Follow these steps to set up the project before the workshop, if you want to create your own ray tracer </p>
 
 # Install Visual Studio
 <p> If you do not already have Visual Studio installed, follow these directions: </p>
@@ -12,13 +12,13 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1fFSGMovtMwt09WpiBKORRi0p2y2o-xqb)
 
-<p> After Visual Studio is done installing, you can log in through GitHub or Microsoft if you have an account </p>
+<p> After Visual Studio is done installing, you can choose to log in through GitHub or Microsoft if you have an account </p>
 
 # Install CMake
 <p> If CMake is not already installed, follow these directions: </p>
 <p> Go to https://cmake.org/download/ and download cmake </p>
 
-<p> During the installation process, it will ask you want it to be downloaded. Wherever is fine </p>
+<p> During the installation process, it will ask you where you want it to be downloaded. Wherever is fine </p>
 
 ![image](https://drive.google.com/uc?export=view&id=1fOBcfipNVsilY0_UnENMIBqTjXxIDEtp)
 
@@ -27,11 +27,11 @@
 ![image](https://drive.google.com/uc?export=view&id=1d4Ly2WZvmfV4lpo8kO1PMr7BU2zPGZnN)
 
 # Downloading the Project
-<p> Click on the green "<> Code" button, and Download ZIP, and extract the files into a folder </p>
-<p> If you have Git or GitHub Desktop on your device, you can download the project there </p>
+<p> Click on the green "<> Code" button in the repository, select Download ZIP, and extract the files into a folder </p>
+<p> If you have Git or GitHub Desktop on your device, you can choose to download the project that way </p>
 
 # Building the Project
-<p> Open the CMake GUI. This should be in your desktop shortcuts, or check where you downloaded it and run bin/cmake-gui.exe </p>
+<p> Open the CMake GUI. This should be in your desktop shortcuts, or open the folder where you downloaded it and run bin/cmake-gui.exe </p>
 <p> Once it opens, select "Browse Source" and navigate to the folder of the project you downloaded from GitHub </p>
 <p> Select "Browse Build" and navigate to the same folder. Add "/cmake_build" at the end to put the built project in that folder. It will ask if you want to create a new foldercalled cmake_build, select yes </p>
 
