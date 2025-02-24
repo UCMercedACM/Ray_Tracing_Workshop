@@ -28,6 +28,9 @@
 
 # Downloading the Project
 <p> Click on the green "<> Code" button in the repository, select Download ZIP, and extract the files into a folder </p>
+
+![image](https://drive.google.com/uc?export=view&id=1HbqVs3_9Fgp_53rdUnzmCweSGYo0tAjE)
+
 <p> If you have Git or GitHub Desktop on your device, you can choose to download the project that way </p>
 
 # Building the Project
@@ -53,6 +56,16 @@
 <p> Now, head over to the file location of the project and there should be a folder called cmake_build with a file "Ray_Tracing_Workshop.sln". Go ahead and open it with Visual Studio </p>
 
 # Running the Project
-<p> Once you run the project, you should see this: </p>
+<p> With the project opened in Visual Studio, right click the project "Ray_Tracing_Workshop" and select "Set as Startup Project" </p>
+
+![image](https://drive.google.com/uc?export=view&id=16mY4PHUmn-RnXhj9Eiwrd8quMbREZsKj)
+
+<p> Now run "Local Windows Debugger" to build and run the project. If everything builds and compiles correctly, the project should start </p>
+
+![image](https://drive.google.com/uc?export=view&id=1PtkmUHXAk9X8IaroemJNh4EBEC0ZMunW)
+
+<p> Once you run the project and the window opens, you should see this: </p>
 
 ![image](https://drive.google.com/uc?export=view&id=1FQrkTMzAjb8hBALEdFNI24da0AI-36z_)
+
+<p> You are now ready to start ray tracing! </p>
